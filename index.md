@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome negri tirai bambu
 
 You can use the [editor on GitHub](https://github.com/RaGaNo0/RaGaNo0.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
